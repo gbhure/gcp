@@ -1,4 +1,6 @@
 # pip install google-cloud-compute
+# IAM&Admin —> Service Account —> add key. Name-> gcp_key.json
+
 
 from google.cloud import compute_v1
 import os
